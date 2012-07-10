@@ -1,0 +1,7 @@
+color0 white		# Normal
+color1 0077ff		# Headings
+color2 ddaa00		# Highlight
+color3 lightgrey	# Label
+
+${color #0077ff}Nozbe Next Actions$color
+${execpi 60 ~/.conky/nozbe.php}
